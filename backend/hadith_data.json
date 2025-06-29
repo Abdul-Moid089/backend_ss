@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "book": "Sahih Bukhari",
+    "english": "The Prophet (ﷺ) said, 'The strong is not the one who overcomes people by his strength, but the strong is the one who controls himself while in anger.'",
+    "arabic": "ليس الشديد بالصرعة، إنما الشديد الذي يملك نفسه عند الغضب",
+    "reference": "Sahih al-Bukhari 6114",
+    "tags": ["anger", "strength", "character"],
+    "grade": "Sahih"
+  },
+  {
+    "id": 2,
+    "book": "Sahih Muslim",
+    "english": "None of you truly believes until he loves for his brother what he loves for himself.",
+    "arabic": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه",
+    "reference": "Sahih Muslim 45",
+    "tags": ["brotherhood", "faith", "love"],
+    "grade": "Sahih"
+  }
+]
